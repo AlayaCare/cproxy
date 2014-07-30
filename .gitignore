@@ -3,3 +3,4 @@ lib
 local
 include
 *.egg-info
+*.pyc
